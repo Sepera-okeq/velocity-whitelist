@@ -27,7 +27,7 @@ import net.kyori.adventure.text.Component;
 import net.kyori.adventure.text.format.NamedTextColor;
 import net.kyori.adventure.text.format.TextDecoration;
 
-@Plugin(id = "bungee-whitelist", name = "bungee-whitelist", version = "1.0", description = "Whitelist plugin for BungeeCord and Velocity", authors = {
+@Plugin(id = "velocity-whitelist", name = "velocity-whitelist", version = "1.0", description = "Whitelist plugin for Velocity", authors = {
         "hadroncfy" })
 public class WhitelistPlugin implements IPlugin {
 
