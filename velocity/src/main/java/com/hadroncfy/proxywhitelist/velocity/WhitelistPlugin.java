@@ -28,7 +28,7 @@ import net.kyori.adventure.text.format.NamedTextColor;
 import net.kyori.adventure.text.format.TextDecoration;
 
 @Plugin(id = "velocity-whitelist", name = "velocity-whitelist", version = "1.0", description = "Whitelist plugin for Velocity", authors = {
-        "hadroncfy" })
+        "hadroncfy && sepera_okeq" })
 public class WhitelistPlugin implements IPlugin {
 
     @Inject
